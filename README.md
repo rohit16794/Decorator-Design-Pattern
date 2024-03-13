@@ -1,0 +1,2 @@
+You are developing a software system for a coffee shop. The system needs to handle different types of coffee beverages and provide the flexibility to add additional ingredients or modifiers to these beverages dynamically. 
+For example, customers should be able to order a basic coffee like Espresso and then add extra shots of espresso, flavored syrups, whipped cream, etc., as per their preference.
